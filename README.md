@@ -11,4 +11,3 @@ Just Type C:\ in search input and click search button.
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
-I'm Microsoft Certified Professional.
